@@ -11,7 +11,7 @@ import cn.xsshome.baitencentdu.baiduai.util.HttpUtil;
 /**
  * 人流统计-JavaAPI示例代码
  * @author 小帅丶
- *
+ * @date 2018年3月30日
  */
 public class BodyNumSample {
 	private static final String BODY_NUM = "https://aip.baidubce.com/rest/2.0/image-classify/v1/body_num";
